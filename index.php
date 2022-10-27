@@ -402,7 +402,7 @@ include_once("connection.php");
                         <ul>
                             <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
                             <li>Phone: 0948 459 460</li>
-                            <li>Email: Phuhtgcc19055@fpt.edu.vn</li>
+                            <li>Email: khanvhgcc19067@fpt.edu.vn</li>
                         </ul>
                     </div>
                 </div>
