@@ -114,7 +114,7 @@ include_once("connection.php");
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> Phuhtgcc19055@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i> khanvhgcc19067@fpt.edu.vn</li>
                 <li>A shopping website for toy</li>
             </ul>
         </div>
@@ -141,7 +141,7 @@ include_once("connection.php");
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> Phuhtgcc19055@fpt.edu.vn</li>
+                                <li><i class="fa fa-envelope"></i> khanvhgcc19067@fpt.edu.vn</li>
                                 <li>A shopping website for toy </li>
                             </ul>
                         </div>
@@ -400,8 +400,8 @@ include_once("connection.php");
                             <a href="./index.html"><img src="ATNtoy/Logo.png" alt=""></a>
                         </div>
                         <ul>
-                            <li>Address: 160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</li>
-                            <li>Phone: 0948 459 460</li>
+                            <li>Address: 100 An Phu, Tan Chau, An Giang, Vietnam</li>
+                            <li>Phone: 0948 111 111</li>
                             <li>Email: khanvhgcc19067@fpt.edu.vn</li>
                         </ul>
                     </div>
@@ -447,7 +447,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer__copyright">
-                        <div class="footer__copyright__text"> HA TY PHU</div>
+                        <div class="footer__copyright__text"> Vuong Huynh Khan</div>
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
                 </div>
