@@ -208,7 +208,7 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="?page=content"><img src="ATNtoy/Logo.png" alt=""></a>
+                        <a href="?page=content"><img src="ATNtoy/low-res-logo.png" alt=""></a>
                     </div>
                 </div>
                 
