@@ -67,14 +67,14 @@
                     <div class="contact__widget">
                         <span class="icon_phone"></span>
                         <h4>Phone   </h4>
-                        <p>+84-90-785-3006</p>
+                        <p>0948 111 111</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
                         <span class="icon_pin_alt"></span>
                         <h4>Address</h4>
-                        <p>160 Road 30/4 An Phu, Ninh Kieu, Can Tho, Vietnam</p>
+                        <p>100 An Phu, Tan Chau, An Giang, Vietnam</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
@@ -88,7 +88,7 @@
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>sieungcc19186@fpt.edu.vn</p>
+                        <p>khanvhgcc19067@fpt.edu.vn</p>
                     </div>
                 </div>
             </div>
