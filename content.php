@@ -29,7 +29,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>0948 459 460</h5>
+                                <h5>0962010052</h5>
                                 <span>Support 24/7 time</span>
                             </div>
                         </div>
